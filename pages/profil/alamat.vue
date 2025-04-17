@@ -1,6 +1,6 @@
 <template>
   <div class="container-fluid bg-dark min-vh-100 py-5">
-    <h1 class="text-light text-center mb-5">Alamat</h1>
+    <h1 class="text-light text-center mb-5">Lokasi</h1>
     <div class="row justify-content-center align-items-start px-5">
       <div class="col-md-5 mb-4">
         <div class="card bg-light bg-opacity-75 text-dark shadow-lg rounded-4 border-0 p-4" style="backdrop-filter: blur(5px);">

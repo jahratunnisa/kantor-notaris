@@ -25,19 +25,19 @@
         </li>
         <li class="d-flex align-items-center mb-3">
           <img src="../../../assets/img/bank4.png" class="logo-bank me-3" />
-          <span>PT BANK SINARMAS</span>
+          <span>PT BANK CIMB NIAGA TBK</span>
         </li>
         <li class="d-flex align-items-center mb-3">
           <img src="../../../assets/img/bank3.png" class="logo-bank me-3" />
-          <span>PT PEMODALAN NASIONAL MADANI</span>
+          <span>PT OCBC NISP TBK</span>
         </li>
         <li class="d-flex align-items-center mb-3">
           <img src="../../../assets/img/bank2.png" class="logo-bank me-3" />
-          <span>PT BANK CIMB NIAGA TBK</span>
+          <span>PT BANK SINARMAS</span>
         </li>
         <li class="d-flex align-items-center">
           <img src="../../../assets/img/bank1.png" class="logo-bank me-3" />
-          <span>PT BANK OCBC NISP TBK</span>
+          <span>PT PERMODALAN NASIONAL MADANI</span>
         </li>
       </ul>
     </div>
