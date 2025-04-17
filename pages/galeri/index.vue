@@ -19,7 +19,7 @@
         </div>
         <div class="col-12 col-md-4 col-lg-3">
           <div class="img-card-portrait card p-0 rounded-4 overflow-hidden mx-auto shadow-lg">
-            <img src="../../assets/img/kar1.jpeg" class="img-fluid img-full" alt="Foto 2" />
+            <img src="../../assets/img/kar3.jpeg" class="img-fluid img-full" alt="Foto 2" />
           </div>
         </div>
       </div>

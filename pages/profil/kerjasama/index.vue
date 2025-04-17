@@ -3,7 +3,7 @@
     <h2 class="text-center mb-4">Bekerja Sama Dengan</h2>
     <div class="d-flex justify-content-center">
     <div
-      class="card bg-white bg-opacity-10 text-light shadow rounded-4 border-0 p-5 kerja-sama-card"
+      class="card bg-light bg-opacity-75 text-dark shadow rounded-4 border-0 p-5 kerja-sama-card"
       style="backdrop-filter: blur(6px)"
     >
       <ul class="list-unstyled mb-0">
@@ -25,21 +25,19 @@
         </li>
         <li class="d-flex align-items-center mb-3">
           <img src="../../../assets/img/bank4.png" class="logo-bank me-3" />
-          <span>PT BANK CIMB NIAGA TBK</span>
-          
+          <span>PT BANK SINARMAS</span>
         </li>
         <li class="d-flex align-items-center mb-3">
           <img src="../../../assets/img/bank3.png" class="logo-bank me-3" />
-          <span>PT BANK OCBC NISP TBK</span>
-          
+          <span>PT PEMODALAN NASIONAL MADANI</span>
         </li>
         <li class="d-flex align-items-center mb-3">
           <img src="../../../assets/img/bank2.png" class="logo-bank me-3" />
-          <span>PT BANK SINARMAS</span>
+          <span>PT BANK CIMB NIAGA TBK</span>
         </li>
         <li class="d-flex align-items-center">
           <img src="../../../assets/img/bank1.png" class="logo-bank me-3" />
-          <span>PT PEMODALAN NASIONAL MADANI</span>
+          <span>PT BANK OCBC NISP TBK</span>
         </li>
       </ul>
     </div>
